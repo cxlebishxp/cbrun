@@ -1,0 +1,3 @@
+FinGPT/
+crypto-analyzer-gpt-4o/
+finBERT/
