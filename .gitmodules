@@ -1,0 +1,9 @@
+[submodule "FinGPT"]
+	path = FinGPT
+	url = https://github.com/AI4Finance-Foundation/FinGPT.git
+[submodule "finBERT"]
+	path = finBERT
+	url = https://github.com/ProsusAI/finBERT.git
+[submodule "crypto-analyzer-gpt-4o"]
+	path = crypto-analyzer-gpt-4o
+	url = https://github.com/4Trading-io/crypto-analyzer-gpt-4o.git
